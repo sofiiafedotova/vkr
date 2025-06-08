@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Улан-Батор", "comm": null, "lon": 106.917647, "lat": 47.918615 }, "geometry": { "type": "Point", "coordinates": [ 106.917647, 47.918615 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Сухэ-Батор", "comm": null, "lon": 106.23088, "lat": 50.234452 }, "geometry": { "type": "Point", "coordinates": [ 106.23088, 50.234452 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Амгалан", "comm": null, "lon": 107.014341, "lat": 47.903112 }, "geometry": { "type": "Point", "coordinates": [ 107.014341, 47.903112 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Алтан-Булак", "comm": null, "lon": 106.493676, "lat": 50.321339 }, "geometry": { "type": "Point", "coordinates": [ 106.493676, 50.321339 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Братск", "comm": null, "lon": 101.633502, "lat": 56.153606 }, "geometry": { "type": "Point", "coordinates": [ 101.633502, 56.153606 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Булган", "comm": null, "lon": 103.529947, "lat": 48.816637 }, "geometry": { "type": "Point", "coordinates": [ 103.529947, 48.816637 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Дархан", "comm": null, "lon": 105.964058, "lat": 49.463301 }, "geometry": { "type": "Point", "coordinates": [ 105.964058, 49.463301 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Дзунхара", "comm": null, "lon": 106.459236, "lat": 48.861203 }, "geometry": { "type": "Point", "coordinates": [ 106.459236, 48.861203 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Карнаковка", "comm": null, "lon": 106.78885631376329, "lat": 49.765111852409667 }, "geometry": { "type": "Point", "coordinates": [ 106.78885631376329, 49.76511185240966 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Керулен", "comm": null, "lon": 114.5252, "lat": 48.071574 }, "geometry": { "type": "Point", "coordinates": [ 114.5252, 48.071574 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Китай", "comm": null, "lon": 116.391441, "lat": 39.901849 }, "geometry": { "type": "Point", "coordinates": [ 116.391441, 39.901849 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Монгольский Алтай", "comm": null, "lon": 91.466786, "lat": 46.883403 }, "geometry": { "type": "Point", "coordinates": [ 91.466786, 46.883403 ] } },
+{ "type": "Feature", "properties": { "id": 15, "name": "Улан-Удэ", "comm": null, "lon": 107.584547, "lat": 51.834809 }, "geometry": { "type": "Point", "coordinates": [ 107.584547, 51.834809 ] } },
+{ "type": "Feature", "properties": { "id": 16, "name": "Ховд", "comm": null, "lon": 91.646742, "lat": 48.000875 }, "geometry": { "type": "Point", "coordinates": [ 91.646742, 48.000875 ] } },
+{ "type": "Feature", "properties": { "id": 17, "name": "Чойболсан", "comm": null, "lon": 114.5252, "lat": 48.071574 }, "geometry": { "type": "Point", "coordinates": [ 114.5252, 48.071574 ] } },
+{ "type": "Feature", "properties": { "id": 18, "name": "Шамара", "comm": null, "lon": 106.21444, "lat": 50.121898 }, "geometry": { "type": "Point", "coordinates": [ 106.21444, 50.121898 ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Оджук (Селенгинский аймак)", "comm": null, "lon": 106.192, "lat": 50.021 }, "geometry": { "type": "Point", "coordinates": [ 106.335831157596331, 49.885479544237015 ] } }
+]
+}
